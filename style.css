@@ -1,0 +1,272 @@
+
+.bg-image{background-image: url("top-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+a{
+    color: white;
+    text-decoration: none;
+    }
+
+a.two{
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10PX;
+    }
+
+.container {
+    position: relative;
+    }
+
+.Sign {
+    position: absolute;
+    top: 8px;
+    right: 150px;
+    font-size: 18px;
+    }
+
+.log {
+    position: absolute;
+    top: 8px;
+    right: 50px;
+    }
+
+form{
+    text-align: center;
+    height: 150px;
+    }
+
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    }
+
+
+a.three{
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    padding: 10PX;
+    }
+
+
+/*---------------------section2-------------------------*/
+.section2{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    }
+
+.section2 .fa-arrow{
+    color: red;
+}
+
+
+.first-pic img{
+    width: 150px;
+    height: 200px;
+    margin-top: 120px;
+    }
+
+
+.first-pic p{
+    font-size: 20px;
+    }
+
+.first-pic a{
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+    }
+
+h1.pic{
+    color: black;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+
+/*----------------------section3-----------------*/
+.food-one{
+    margin: 50px auto;
+    padding: 20px;
+    }
+
+.food-one img{
+    float: right;
+    padding: 0 0 30px 100px;
+   }
+   
+
+h2.word{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+        
+            
+.food-one p{
+    font-size: 20px;
+    }
+       
+.content1{
+    margin-left: 70px;
+    margin-top: 90px;
+    }
+
+.food-one a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: red;
+    }
+
+
+.food-two{
+    margin: 100px auto;
+    padding: 20px;
+    }
+        
+.food-two img{
+    float: left;
+    padding-right: 70px;  
+    }
+           
+        
+h2.word{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+                
+                    
+.food-two p{
+    font-size: 20px;
+    }
+               
+.content2{
+    margin-left: 70px;
+    margin-top: 90px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 150px;
+    background-color: lavender;
+    margin-bottom: 150px;
+    }
+        
+.food-two a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: red;
+    }
+
+    
+/*----------footer---------*/
+    
+.footer{
+    width: 100%;
+    
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin:0 auto;
+    }    
+    
+.footer-1 h2{
+    margin-bottom: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.footer-1{
+    display: flex;
+    flex-direction: column;
+    margin-right: 4rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    }
+    
+
+.footer-b{
+    display: flex;
+    flex-direction: column;
+    margin-right: 4rem;
+    margin-left: 2rem;
+    margin-top: 6rem;
+    }
+
+.footer-c{
+    display: flex;
+    flex-direction: column;
+    margin-right: 7rem;
+    margin-left: 1rem;
+    margin-top: 6rem;
+    }
+    
+
+.footer-1 a{
+    color: white;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.footer-b a{
+        color: white;
+        text-decoration: none;
+        margin-bottom: 0.5rem;
+        font-family: Arial, Helvetica, sans-serif;
+        }
+
+.footer-c a{
+    color: white;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    
+.footer-1 a:hover{
+    text-decoration: underline;
+    transition: 0.3s ease-out;
+    }
+
+.footer-b a:hover{
+    text-decoration: underline;
+    transition: 0.3s ease-out;
+    }
+
+.footer-c a:hover{
+    text-decoration: underline;
+    transition: 0.3s ease-out;
+    }
+
+.footer1{
+    background-color: black;
+    padding-bottom: 50px;
+    }
+
+.footer1 a{
+    margin-left: 50px;
+    }
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
